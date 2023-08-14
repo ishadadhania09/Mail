@@ -115,7 +115,6 @@ function sendEmail($toAddress, $toName, $subject, $body,$setfrom,$sendername,$bc
 }
 
 
-
 $recipientAddress = '';
 $recipientName = '';
 $setfrom='isha.dadhania@brainvire.com';
